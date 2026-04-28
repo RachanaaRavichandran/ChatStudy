@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name:Rachanaa.R
+## Reg.No:212225040322
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
